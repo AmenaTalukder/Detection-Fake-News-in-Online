@@ -13,7 +13,7 @@ Dataset Utilization: Trains the model on publicly available datasets for effecti
 
 ## Technologies Used<br>
 Programming Language: Python<br>
-Libraries:
+Libraries:<br>
 Scikit-learn<br>
 Pandas<br>
 NumPy<br>
