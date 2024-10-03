@@ -1,5 +1,5 @@
 ## Detection-Fake-News-in-Online
-## Google Colab Project Link:https://colab.research.google.com/drive/19kVReHTKgy7xfKUBNybjiqGVZNQLHPhe
+## Google Colab Project Link : https://colab.research.google.com/drive/19kVReHTKgy7xfKUBNybjiqGVZNQLHPhe
 
 ## Overview
 The Detection Fake News in Online project is a machine learning-based application designed to identify and classify fake news articles. This project aims to combat misinformation by utilizing natural language processing (NLP) techniques and machine learning algorithms to analyze text and predict its authenticity.
@@ -11,14 +11,14 @@ User Interface: Provides an intuitive interface for users to input news articles
 Data Visualization: Displays the results with clear visualizations to help users understand the predictions and model performance.<br>
 Dataset Utilization: Trains the model on publicly available datasets for effective learning.<br>
 
-## Technologies Used
-Programming Language: Python
+## Technologies Used<br>
+Programming Language: Python<br>
 Libraries:
-Scikit-learn
-Pandas
-NumPy
-NLTK (or SpaCy)
-Matplotlib
+Scikit-learn<br>
+Pandas<br>
+NumPy<br>
+NLTK (or SpaCy)<br>
+Matplotlib<br>
 Machine Learning: Various classification algorithms (e.g., Logistic Regression, Decision Trees, etc.)
 
 ## Methodology
